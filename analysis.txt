@@ -1,0 +1,3 @@
+1. Ramacine and Campomulin are the 2 best drug regimens based on final volume size even though more. Mice were tested with those drugs.
+2. Heavier mice grew larger tumors
+3. The final tumor volume for Capomulin, Ramicane, Infubinol and Ceftamin were normally distributed with only one outlier making their data pretty reliable.
